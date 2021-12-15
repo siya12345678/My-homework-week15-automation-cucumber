@@ -1,0 +1,759 @@
+2021-12-12 00:12:218 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 00:12:719 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (67c95c9a57d4311a23a34c02317832af)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 00:12:329 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 00:12:175 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e8ff7cd30f99fc0f7d19343f6deddaa2)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 00:12:454 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 00:12:395 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (fe9db060f39a6e4bcd85488523df7129)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 00:12:410 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 00:12:965 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (45e8e2f313a8ec5c813539a8441a4878)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 00:12:557 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 00:12:197 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3583b1595bcb7b97463a55c7a89916da)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 00:12:740 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 00:12:538 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a31506fc655620d5207d7d261ef43768)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 00:12:25 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 00:12:330 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f943e1023bc7e67a83bc67dcb45c4d6f)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 00:12:188 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 00:12:525 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f017f9326d623a1d35f2e6c3f2e4453b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 00:12:116 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 00:12:214 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3700671e18696a871c2e71242e13c2b7)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 00:12:768 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 00:12:403 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (cb41e665436373dac5b2ef78290800ea)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 00:12:220 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:264 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:890 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0b98d709849e4dd535750d86d4d78ec8)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:291 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:245 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (215e768b5d34e33c87d74867b4aa76e8)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:599 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 01:12:702 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:926 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:405 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0e67557058253837d9f6adc867bd1e9c)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:156 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 01:12:251 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 01:12:121 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:400 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8d1e306cd7d5e14e06fbf16629f19c3d)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:684 INFO  SignInPage :49 - Enter EmailId adfdfgfg
+2021-12-12 01:12:791 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:12 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:505 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (87d1a3778fd95f6b79db3462f7483139)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:357 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 01:12:465 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:626 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:478 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (183367a205220c1877b284138cc5c642)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:421 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 01:12:516 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 01:12:831 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:20 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7ca8d7eab81910483840bc29970dcddc)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:806 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 01:12:897 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 01:12:116 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:268 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (732f8cb14ee4cbd27da31f402f3ffac6)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:299 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:620 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (748301da7a3629bca95900306c834f40)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:716 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 01:12:822 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:217 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:942 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f4f6463ed32d73b7d35bdebdf12df683)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:868 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 01:12:962 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 01:12:106 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:13 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3b077908cd2e06c541ac7b0e3d9ca39e)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:593 INFO  SignInPage :49 - Enter EmailId adfdfgfg
+2021-12-12 01:12:702 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:600 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:99 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5e6beca857233e7fc91f6993829c71a6)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:13 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 01:12:121 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:978 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:485 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (093a7290410761c00dc6432d27432206)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:434 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 01:12:530 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 01:12:700 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:705 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (fb8aa61a338b879feeeff3714bea66a2)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:662 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 01:12:756 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 01:12:554 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:937 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (edaf9c517335f28ccbb6522cb07088dd)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:625 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:111 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (dd1e6f3b350d1ddec3d46604ddb2b13f)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:780 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 01:12:895 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:671 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:302 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0d5edd31515e4b309846d1b417f79c54)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:04 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 01:12:104 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 01:12:906 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:393 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4c833e38ea848ecde8a4ef31e7649571)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:104 INFO  SignInPage :49 - Enter EmailId adfdfgfg
+2021-12-12 01:12:216 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:16 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:102 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4026277fbbeef7b7f1c0b3c51ba158d0)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:798 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 01:12:897 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:695 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:514 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d4223b41f111f6953f69a40dbcfac984)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:196 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 01:12:302 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 01:12:966 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:740 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4779adaefe7c04918d2364f6ebabf1c1)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:280 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 01:12:373 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 01:12:190 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:769 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:790 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:639 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0b6e6633b6c747711991071ddb7a9d71)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:413 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 01:12:517 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 01:12:703 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:86 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (30c1751c5f6f5f7ac21385d6e38d800f)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:115 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 01:12:218 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 01:12:413 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:381 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3e483fbdc866af6932e9208dec81350e)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:91 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 01:12:199 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 01:12:677 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:794 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (6aa7f4148f5b0efa7b936aa38b0b1b2b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:431 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 01:12:531 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 01:12:08 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 01:12:788 INFO  SignInPage :95 - Click on Logout Link
+2021-12-12 01:12:827 INFO  HomePage :47 - verify Sign in button : [[ChromeDriver: chrome on WINDOWS (6aa7f4148f5b0efa7b936aa38b0b1b2b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:303 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:637 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (45db497e17723f1f2e1f8802953ccae9)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:393 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:113 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (57b062e01b6089f9d8e499c97cebc23b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:623 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 01:12:728 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:626 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 01:12:681 INFO  SignInPage :83 - Verify Authentication Failed Message There is 1 error
+An email address required.
+2021-12-12 01:12:523 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:372 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a5a324acc0f9de77755c8ba33b7c03de)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:951 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 01:12:55 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 01:12:968 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 01:12:26 INFO  SignInPage :83 - Verify Authentication Failed Message There is 1 error
+Password is required.
+2021-12-12 01:12:857 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:539 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (075180fe93e43bf21c9cd75c65e3ece3)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:62 INFO  SignInPage :49 - Enter EmailId adfdfgfg
+2021-12-12 01:12:168 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:50 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 01:12:99 INFO  SignInPage :83 - Verify Authentication Failed Message There is 1 error
+Invalid email address.
+2021-12-12 01:12:951 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:831 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (358bfaa839d409c02e6eed8ad27205e3)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:340 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 01:12:443 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 01:12:377 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 01:12:433 INFO  SignInPage :83 - Verify Authentication Failed Message There is 1 error
+Authentication failed.
+2021-12-12 01:12:244 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:69 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (00af11ef1c5e38a5f8739ac7875524d5)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:765 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 01:12:869 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 01:12:865 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 01:12:917 INFO  SignInPage :89 - Verify Log Out Sign out
+2021-12-12 01:12:555 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 01:12:458 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (6885d1e0e928c3fa7423ded378204142)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 01:12:32 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 01:12:137 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 01:12:753 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 01:12:412 INFO  SignInPage :95 - Click on Logout Link
+2021-12-12 01:12:447 INFO  HomePage :47 - verify Sign in button : [[ChromeDriver: chrome on WINDOWS (6885d1e0e928c3fa7423ded378204142)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:25 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:737 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c1cc1aaa234755c18e465bb2e0cc19d7)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:283 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:901 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (83fae8dfbcdb2a09c1d328fbc94a977b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:490 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 02:12:592 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 02:12:601 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:655 INFO  SignInPage :83 - Verify Authentication Failed Message There is 1 error
+An email address required.
+2021-12-12 02:12:517 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:473 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (109fc506ee44a4327b1014140585a346)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:73 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 02:12:169 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 02:12:98 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:154 INFO  SignInPage :83 - Verify Authentication Failed Message There is 1 error
+Password is required.
+2021-12-12 02:12:986 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:661 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5e2b1b25f0d0d6f88a61dba27d1b5137)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:317 INFO  SignInPage :49 - Enter EmailId adfdfgfg
+2021-12-12 02:12:414 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 02:12:325 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:378 INFO  SignInPage :83 - Verify Authentication Failed Message There is 1 error
+Invalid email address.
+2021-12-12 02:12:183 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:461 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (cb565436e0069d3be1ed5d2b7cdc2b2e)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:179 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 02:12:287 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 02:12:168 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:220 INFO  SignInPage :83 - Verify Authentication Failed Message There is 1 error
+Authentication failed.
+2021-12-12 02:12:53 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:266 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f37bda204f6fbb94feca221ef7548521)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:773 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 02:12:883 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 02:12:349 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:401 INFO  SignInPage :89 - Verify Log Out Sign out
+2021-12-12 02:12:93 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:615 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (77dbe9aae12a90b5283906e869c8d710)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:348 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 02:12:447 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 02:12:824 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:467 INFO  SignInPage :95 - Click on Logout Link
+2021-12-12 02:12:504 INFO  HomePage :47 - verify Sign in button : [[ChromeDriver: chrome on WINDOWS (77dbe9aae12a90b5283906e869c8d710)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:715 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:268 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:529 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:749 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:678 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:857 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (510bfee40cb011b2eb83d90acaa730bf)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:648 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:374 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d3803190b651b0ccd78de8af4e299f99)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:236 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 02:12:341 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 02:12:469 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:523 INFO  SignInPage :83 - Verify Authentication Failed Message An email address required.
+2021-12-12 02:12:182 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:27 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (82bb579f01c71cd6e33e3f9cdc0c6a97)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:750 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 02:12:841 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 02:12:31 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:81 INFO  SignInPage :83 - Verify Authentication Failed Message Password is required.
+2021-12-12 02:12:740 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:660 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a6930270b18f96570c7a06d7908f3d51)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:557 INFO  SignInPage :49 - Enter EmailId adfdfgfg
+2021-12-12 02:12:661 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 02:12:718 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:770 INFO  SignInPage :83 - Verify Authentication Failed Message Invalid email address.
+2021-12-12 02:12:433 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:459 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (fd97c3d1f632119488c17423b5d05c05)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:212 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 02:12:318 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 02:12:359 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:409 INFO  SignInPage :83 - Verify Authentication Failed Message Authentication failed.
+2021-12-12 02:12:47 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:792 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5f9c269857546dbb81038bb76de2eec3)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:370 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 02:12:477 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 02:12:792 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:852 INFO  SignInPage :89 - Verify Log Out Sign out
+2021-12-12 02:12:521 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:962 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (6c89e5cf8ea63bc91707b42dea370020)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:137 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 02:12:246 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 02:12:170 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:140 INFO  SignInPage :95 - Click on Logout Link
+2021-12-12 02:12:174 INFO  HomePage :47 - verify Sign in button : [[ChromeDriver: chrome on WINDOWS (6c89e5cf8ea63bc91707b42dea370020)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:58 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:96 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c077ffb53370c226efaf0b931a983f2d)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:118 INFO  SignInPage :70 - Verify Authentication Text AUTHENTICATION
+2021-12-12 02:12:821 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:35 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (cc6450f547d651b045d7ce0370a77bea)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:652 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 02:12:757 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 02:12:13 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:69 INFO  SignInPage :83 - Verify Authentication Failed Message An email address required.
+2021-12-12 02:12:730 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:188 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (796224aa6bb45dd07e59f618b518fd48)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:837 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 02:12:931 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 02:12:267 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:315 INFO  SignInPage :83 - Verify Authentication Failed Message Password is required.
+2021-12-12 02:12:967 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:880 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3d83d2f3e69790b859e32da77a45af96)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:76 INFO  SignInPage :49 - Enter EmailId adfdfgfg
+2021-12-12 02:12:180 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 02:12:240 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:291 INFO  SignInPage :83 - Verify Authentication Failed Message Invalid email address.
+2021-12-12 02:12:935 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:693 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7e5fc47e727c0b28ee235badf5895568)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:653 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 02:12:761 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 02:12:748 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:801 INFO  SignInPage :83 - Verify Authentication Failed Message Authentication failed.
+2021-12-12 02:12:476 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:705 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (056299ddae4db5025d0965cc241e21f5)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:640 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 02:12:751 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 02:12:204 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:254 INFO  SignInPage :89 - Verify Log Out Sign out
+2021-12-12 02:12:922 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 02:12:913 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9e951dfe9ceab019b26dbe9d5c5c4587)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 02:12:255 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 02:12:360 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 02:12:132 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 02:12:990 INFO  SignInPage :95 - Click on Logout Link
+2021-12-12 02:12:25 INFO  HomePage :47 - verify Sign in button : [[ChromeDriver: chrome on WINDOWS (9e951dfe9ceab019b26dbe9d5c5c4587)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 03:12:797 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 03:12:233 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 03:12:441 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 03:12:692 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2a792a3333577a08029145dfa73101bf)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 03:12:48 INFO  SignInPage :72 - Verify Authentication Text AUTHENTICATION
+2021-12-12 03:12:729 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 03:12:550 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (321af102baaa4e514f2dbd76ea148a3b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 03:12:628 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 03:12:728 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 03:12:825 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 03:12:874 INFO  SignInPage :85 - Verify Authentication Failed Message An email address required.
+2021-12-12 03:12:521 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 03:12:184 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9d5279ceb5b2edab9e58a8eac8a0d476)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 03:12:403 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 03:12:498 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 03:12:01 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 03:12:56 INFO  SignInPage :85 - Verify Authentication Failed Message Password is required.
+2021-12-12 03:12:723 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 03:12:846 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e4f60a86110a3db46febf29d508a6f39)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 03:12:504 INFO  SignInPage :49 - Enter EmailId adfdfgfg
+2021-12-12 03:12:601 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 03:12:28 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 03:12:81 INFO  SignInPage :85 - Verify Authentication Failed Message Invalid email address.
+2021-12-12 03:12:722 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 03:12:843 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0615ee0b4f24085e5795ffb91a6ee531)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 03:12:386 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 03:12:481 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 03:12:887 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 03:12:940 INFO  SignInPage :85 - Verify Authentication Failed Message Authentication failed.
+2021-12-12 03:12:579 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 03:12:169 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (bb6c5e374139a6afd55b80dfc0561fbe)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 03:12:860 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 03:12:968 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 03:12:423 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 03:12:473 INFO  SignInPage :91 - Verify Log Out Sign out
+2021-12-12 03:12:136 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 03:12:243 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2024f02f13a20a88b72b260390996223)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 03:12:505 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 03:12:609 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 03:12:969 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 03:12:954 INFO  SignInPage :97 - Click on Logout Link
+2021-12-12 03:12:988 INFO  HomePage :47 - verify Sign in button : [[ChromeDriver: chrome on WINDOWS (2024f02f13a20a88b72b260390996223)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 09:12:572 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 10:12:620 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 10:12:166 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 10:12:326 INFO  SignInPage :62 - Enter EmailId RobinSun_Dec_12_10_03_06_GMT_2021@gmail.com
+2021-12-12 10:12:422 INFO  SignInPage :66 - Click on Create an Account 
+2021-12-12 10:12:86 INFO  CreateAccountPage :68 - Enter First Name : Robin
+2021-12-12 10:12:191 INFO  CreateAccountPage :73 - Enter Last Name :Singh
+2021-12-12 10:12:307 INFO  CreateAccountPage :78 - Enter Password Robin1234
+2021-12-12 10:12:880 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 10:12:674 INFO  SignInPage :57 - Click on Sign in button 
+2021-12-12 10:12:855 INFO  SignInPage :62 - Enter EmailId RobinSun_Dec_12_10_11_59_GMT_2021@gmail.com
+2021-12-12 10:12:940 INFO  SignInPage :66 - Click on Create an Account 
+2021-12-12 10:12:472 INFO  CreateAccountPage :68 - Enter First Name : Robin
+2021-12-12 10:12:586 INFO  CreateAccountPage :73 - Enter Last Name :Singh
+2021-12-12 10:12:701 INFO  CreateAccountPage :78 - Enter Password Robin1234
+2021-12-12 10:12:826 INFO  CreateAccountPage :84 - Enter First Line of Address :1 Nice Building
+2021-12-12 10:12:993 INFO  CreateAccountPage :89 - Enter City : Maryland
+2021-12-12 10:12:115 INFO  CreateAccountPage :94 - Enter State:Ohio
+2021-12-12 10:12:227 INFO  CreateAccountPage :99 - Enter PostCode12345
+2021-12-12 10:12:305 INFO  CreateAccountPage :104 - Enter CountryUnited States
+2021-12-12 10:12:427 INFO  CreateAccountPage :109 - Enter mobile phone0123456789
+2021-12-12 10:12:537 INFO  CreateAccountPage :114 - Enter Address aliasmain home
+2021-12-12 10:12:108 INFO  CreateAccountPage :119 - Click on Register button[[ChromeDriver: chrome on WINDOWS (074e6f2974ffade9bc22c437c2baefc3)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/button[1]/span[1]]
+2021-12-12 10:12:155 INFO  CreateAccountPage :124 - Verify Account Page[[ChromeDriver: chrome on WINDOWS (074e6f2974ffade9bc22c437c2baefc3)] -> xpath: //span[@class='navigation_page']]
+2021-12-12 10:12:770 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 10:12:740 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (74d597f1d7a0531250cd4ee7d71b5ed9)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 10:12:678 INFO  SignInPage :62 - Enter EmailId RobinSun_Dec_12_10_21_20_GMT_2021@gmail.com
+2021-12-12 10:12:775 INFO  SignInPage :66 - Click on Create an Account 
+2021-12-12 10:12:326 INFO  CreateAccountPage :68 - Enter First Name : Robin
+2021-12-12 10:12:446 INFO  CreateAccountPage :73 - Enter Last Name :Singh
+2021-12-12 10:12:578 INFO  CreateAccountPage :78 - Enter Password Robin1234
+2021-12-12 10:12:698 INFO  CreateAccountPage :84 - Enter First Line of Address :1 Nice Building
+2021-12-12 10:12:857 INFO  CreateAccountPage :89 - Enter City : Maryland
+2021-12-12 10:12:995 INFO  CreateAccountPage :94 - Enter State:Ohio
+2021-12-12 10:12:103 INFO  CreateAccountPage :99 - Enter PostCode12345
+2021-12-12 10:12:187 INFO  CreateAccountPage :104 - Enter CountryUnited States
+2021-12-12 10:12:312 INFO  CreateAccountPage :109 - Enter mobile phone0123456789
+2021-12-12 10:12:426 INFO  CreateAccountPage :114 - Enter Address aliasmain home
+2021-12-12 10:12:548 INFO  CreateAccountPage :119 - Click on Register button[[ChromeDriver: chrome on WINDOWS (74d597f1d7a0531250cd4ee7d71b5ed9)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/button[1]/span[1]]
+2021-12-12 10:12:598 INFO  CreateAccountPage :124 - Verify Account Page[[ChromeDriver: chrome on WINDOWS (74d597f1d7a0531250cd4ee7d71b5ed9)] -> xpath: //span[@class='navigation_page']]
+2021-12-12 10:12:969 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 10:12:129 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c1cb169888771a00ba9128632965ebce)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 10:12:346 INFO  SignInPage :62 - Enter EmailId RobinSun_Dec_12_10_24_47_GMT_2021@gmail.com
+2021-12-12 10:12:459 INFO  SignInPage :66 - Click on Create an Account 
+2021-12-12 10:12:945 INFO  CreateAccountPage :68 - Enter First Name : Robin
+2021-12-12 10:12:62 INFO  CreateAccountPage :73 - Enter Last Name :Singh
+2021-12-12 10:12:176 INFO  CreateAccountPage :78 - Enter Password Robin1234
+2021-12-12 10:12:295 INFO  CreateAccountPage :84 - Enter First Line of Address :1 Nice Building
+2021-12-12 10:12:391 INFO  CreateAccountPage :89 - Enter City : Maryland
+2021-12-12 10:12:569 INFO  CreateAccountPage :94 - Enter State:Ohio
+2021-12-12 10:12:689 INFO  CreateAccountPage :99 - Enter PostCode12345
+2021-12-12 10:12:761 INFO  CreateAccountPage :104 - Enter CountryUnited States
+2021-12-12 10:12:878 INFO  CreateAccountPage :109 - Enter mobile phone01234567893
+2021-12-12 10:12:975 INFO  CreateAccountPage :114 - Enter Address aliasmain home
+2021-12-12 10:12:432 INFO  CreateAccountPage :119 - Click on Register button[[ChromeDriver: chrome on WINDOWS (c1cb169888771a00ba9128632965ebce)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/button[1]/span[1]]
+2021-12-12 10:12:476 INFO  CreateAccountPage :124 - Verify Account Page[[ChromeDriver: chrome on WINDOWS (c1cb169888771a00ba9128632965ebce)] -> xpath: //span[@class='navigation_page']]
+2021-12-12 10:12:600 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 10:12:837 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (071db809929e8de03415f8f4f4719914)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 10:12:584 INFO  SignInPage :62 - Enter EmailId RobinSun_Dec_12_10_29_01_GMT_2021@gmail.com
+2021-12-12 10:12:680 INFO  SignInPage :66 - Click on Create an Account 
+2021-12-12 10:12:259 INFO  CreateAccountPage :68 - Enter First Name : Robin
+2021-12-12 10:12:364 INFO  CreateAccountPage :73 - Enter Last Name :Singh
+2021-12-12 10:12:488 INFO  CreateAccountPage :78 - Enter Password Robin1234
+2021-12-12 10:12:602 INFO  CreateAccountPage :84 - Enter First Line of Address :1 Nice Building
+2021-12-12 10:12:753 INFO  CreateAccountPage :89 - Enter City : Maryland
+2021-12-12 10:12:904 INFO  CreateAccountPage :94 - Enter State:Ohio
+2021-12-12 10:12:55 INFO  CreateAccountPage :99 - Enter PostCode12345
+2021-12-12 10:12:142 INFO  CreateAccountPage :104 - Enter CountryUnited States
+2021-12-12 10:12:270 INFO  CreateAccountPage :109 - Enter mobile phone01234567893
+2021-12-12 10:12:382 INFO  CreateAccountPage :114 - Enter Address aliasmain home
+2021-12-12 10:12:395 INFO  CreateAccountPage :119 - Click on Register button[[ChromeDriver: chrome on WINDOWS (071db809929e8de03415f8f4f4719914)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/button[1]/span[1]]
+2021-12-12 10:12:454 INFO  CreateAccountPage :124 - Verify Account Page[[ChromeDriver: chrome on WINDOWS (071db809929e8de03415f8f4f4719914)] -> xpath: //span[@class='navigation_page']]
+2021-12-12 10:12:593 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 10:12:859 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (38fc01a7a128d7b685df3abf62182138)] -> xpath: //a[@title='Women']]
+2021-12-12 10:12:623 INFO  WomenCategoryPage :51 - Verify Women Page : WOMEN
+2021-12-12 10:12:502 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 10:12:117 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (548507ea1eaca1a1b1961cc289d59e27)] -> xpath: //a[@title='Women']]
+2021-12-12 10:12:330 INFO  WomenCategoryPage :51 - Verify Women Page : WOMEN
+2021-12-12 11:12:387 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:115 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (9b88ef729048e5da257bfa8b0b414cb7)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:109 INFO  WomenCategoryPage :51 - Verify Women Page : WOMEN
+2021-12-12 11:12:171 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:537 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (87786007b73562d79e89d2af49b13753)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:326 INFO  WomenCategoryPage :51 - Verify Women Page : WOMEN
+2021-12-12 11:12:73 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:908 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (4ed7fe4955f64319d75aa033e15f881b)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:919 INFO  WomenCategoryPage :61 - Select Product : Blouse
+2021-12-12 11:12:134 INFO  WomenCategoryPage :66 - Select Quantity : 2
+2021-12-12 11:12:281 INFO  WomenCategoryPage :71 - Select Size:M
+2021-12-12 11:12:376 INFO  WomenCategoryPage :76 - Select ColorWhite
+2021-12-12 11:12:499 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:512 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:931 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (109710b67117265e9855268d118471d8)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:455 INFO  WomenCategoryPage :61 - Select Product : Printed Dress
+2021-12-12 11:12:659 INFO  WomenCategoryPage :66 - Select Quantity : 3
+2021-12-12 11:12:800 INFO  WomenCategoryPage :71 - Select Size:L
+2021-12-12 11:12:900 INFO  WomenCategoryPage :76 - Select ColorOrange
+2021-12-12 11:12:16 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:02 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:973 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (9b34f883a406be5174a25c342d58649a)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:984 INFO  WomenCategoryPage :61 - Select Product : Printed Chiffon Dress
+2021-12-12 11:12:190 INFO  WomenCategoryPage :66 - Select Quantity : 4
+2021-12-12 11:12:261 INFO  WomenCategoryPage :71 - Select Size:S
+2021-12-12 11:12:366 INFO  WomenCategoryPage :76 - Select ColorGreen
+2021-12-12 11:12:473 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:450 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:65 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (a1269cee3372bd3907ea2deaf49252e9)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:196 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:357 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (53bd06c430cce638a8dafc6f960d42f4)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:571 INFO  WomenCategoryPage :61 - Select Product : Blouse
+2021-12-12 11:12:396 INFO  WomenCategoryPage :66 - Select Quantity : 2
+2021-12-12 11:12:542 INFO  WomenCategoryPage :71 - Select Size:M
+2021-12-12 11:12:622 INFO  WomenCategoryPage :76 - Select ColorWhite
+2021-12-12 11:12:714 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:770 INFO  WomenCategoryPage :84 - Get Confirmation :
+2021-12-12 11:12:829 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:869 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (e1727f4953b170e7714d73b674317da5)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:470 INFO  WomenCategoryPage :61 - Select Product : Printed Dress
+2021-12-12 11:12:712 INFO  WomenCategoryPage :66 - Select Quantity : 3
+2021-12-12 11:12:837 INFO  WomenCategoryPage :71 - Select Size:L
+2021-12-12 11:12:930 INFO  WomenCategoryPage :76 - Select ColorOrange
+2021-12-12 11:12:48 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:105 INFO  WomenCategoryPage :84 - Get Confirmation :
+2021-12-12 11:12:63 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:190 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (c7f96479bb5186fc34a74b8d330173ed)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:30 INFO  WomenCategoryPage :61 - Select Product : Printed Chiffon Dress
+2021-12-12 11:12:220 INFO  WomenCategoryPage :66 - Select Quantity : 4
+2021-12-12 11:12:285 INFO  WomenCategoryPage :71 - Select Size:S
+2021-12-12 11:12:387 INFO  WomenCategoryPage :76 - Select ColorGreen
+2021-12-12 11:12:490 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:541 INFO  WomenCategoryPage :84 - Get Confirmation :
+2021-12-12 11:12:499 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:381 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (6e7f2daa08a1aea1a363edf843a6a847)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:701 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:46 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (ec9e93577cde3d0021112280db784eac)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:232 INFO  WomenCategoryPage :61 - Select Product : Blouse
+2021-12-12 11:12:71 INFO  WomenCategoryPage :66 - Select Quantity : 2
+2021-12-12 11:12:220 INFO  WomenCategoryPage :71 - Select Size:M
+2021-12-12 11:12:322 INFO  WomenCategoryPage :76 - Select ColorWhite
+2021-12-12 11:12:434 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:499 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 11:12:596 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 11:12:341 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:92 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (db2a04c1ead7ba78356f50a8a8c2d3f8)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:40 INFO  WomenCategoryPage :61 - Select Product : Printed Dress
+2021-12-12 11:12:302 INFO  WomenCategoryPage :66 - Select Quantity : 3
+2021-12-12 11:12:420 INFO  WomenCategoryPage :71 - Select Size:L
+2021-12-12 11:12:518 INFO  WomenCategoryPage :76 - Select ColorOrange
+2021-12-12 11:12:613 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:690 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 11:12:812 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 11:12:540 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:297 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (579f2251a0559ff275e2427d644f4e1e)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:372 INFO  WomenCategoryPage :61 - Select Product : Printed Chiffon Dress
+2021-12-12 11:12:578 INFO  WomenCategoryPage :66 - Select Quantity : 4
+2021-12-12 11:12:654 INFO  WomenCategoryPage :71 - Select Size:S
+2021-12-12 11:12:748 INFO  WomenCategoryPage :76 - Select ColorGreen
+2021-12-12 11:12:853 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:925 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 11:12:27 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 11:12:711 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:810 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (480a93736c3d967768fb73de3a8dfd1b)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:878 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:836 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (be597064247345c7ec6835c6cbfb38f5)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:757 INFO  WomenCategoryPage :61 - Select Product : Blouse
+2021-12-12 11:12:601 INFO  WomenCategoryPage :66 - Select Quantity : 2
+2021-12-12 11:12:727 INFO  WomenCategoryPage :71 - Select Size:M
+2021-12-12 11:12:817 INFO  WomenCategoryPage :76 - Select ColorWhite
+2021-12-12 11:12:909 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:963 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 11:12:58 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 11:12:744 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:386 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (2078ad0b40a7ccd1ac88d70576647108)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:724 INFO  WomenCategoryPage :61 - Select Product : Printed Dress
+2021-12-12 11:12:973 INFO  WomenCategoryPage :66 - Select Quantity : 3
+2021-12-12 11:12:104 INFO  WomenCategoryPage :71 - Select Size:L
+2021-12-12 11:12:199 INFO  WomenCategoryPage :76 - Select ColorOrange
+2021-12-12 11:12:297 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:389 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 11:12:506 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 11:12:180 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:809 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (d25776fd2af2ef38b8bcc80e7503b03d)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:450 INFO  WomenCategoryPage :61 - Select Product : Printed Chiffon Dress
+2021-12-12 11:12:642 INFO  WomenCategoryPage :66 - Select Quantity : 4
+2021-12-12 11:12:717 INFO  WomenCategoryPage :71 - Select Size:S
+2021-12-12 11:12:811 INFO  WomenCategoryPage :76 - Select ColorGreen
+2021-12-12 11:12:923 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:989 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 11:12:98 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 11:12:827 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 11:12:831 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (9cf02a646f3bdd2bf49f30f1cce909ed)] -> xpath: //a[@title='Women']]
+2021-12-12 11:12:414 INFO  WomenCategoryPage :61 - Select Product : Printed Summer Dress
+2021-12-12 11:12:653 INFO  WomenCategoryPage :66 - Select Quantity : 2
+2021-12-12 11:12:781 INFO  WomenCategoryPage :71 - Select Size:M
+2021-12-12 11:12:885 INFO  WomenCategoryPage :76 - Select ColorBlue
+2021-12-12 11:12:991 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 11:12:52 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 11:12:185 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 12:12:399 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:649 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3dc442dc00b7285c465a7fee2d6d4f3d)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:458 INFO  SignInPage :62 - Enter EmailId RobinSun_Dec_12_12_05_18_GMT_2021@gmail.com
+2021-12-12 12:12:558 INFO  SignInPage :66 - Click on Create an Account 
+2021-12-12 12:12:190 INFO  CreateAccountPage :68 - Enter First Name : Robin
+2021-12-12 12:12:297 INFO  CreateAccountPage :73 - Enter Last Name :Singh
+2021-12-12 12:12:415 INFO  CreateAccountPage :78 - Enter Password Robin1234
+2021-12-12 12:12:521 INFO  CreateAccountPage :84 - Enter First Line of Address :1 Nice Building
+2021-12-12 12:12:627 INFO  CreateAccountPage :89 - Enter City : Maryland
+2021-12-12 12:12:809 INFO  CreateAccountPage :94 - Enter State:Ohio
+2021-12-12 12:12:926 INFO  CreateAccountPage :99 - Enter PostCode12345
+2021-12-12 12:12:13 INFO  CreateAccountPage :104 - Enter CountryUnited States
+2021-12-12 12:12:127 INFO  CreateAccountPage :109 - Enter mobile phone01234567893
+2021-12-12 12:12:243 INFO  CreateAccountPage :114 - Enter Address aliasmain home
+2021-12-12 12:12:779 INFO  CreateAccountPage :119 - Click on Register button[[ChromeDriver: chrome on WINDOWS (3dc442dc00b7285c465a7fee2d6d4f3d)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/button[1]/span[1]]
+2021-12-12 12:12:835 INFO  CreateAccountPage :124 - Verify Account Page[[ChromeDriver: chrome on WINDOWS (3dc442dc00b7285c465a7fee2d6d4f3d)] -> xpath: //span[@class='navigation_page']]
+2021-12-12 12:12:571 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:458 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (94587f844d424addfb7baaa1e1af76f1)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:993 INFO  SignInPage :72 - Verify Authentication Text AUTHENTICATION
+2021-12-12 12:12:703 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:504 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b4709725bcee2947bf9a98bde44e264b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:979 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 12:12:85 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 12:12:99 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b4709725bcee2947bf9a98bde44e264b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:137 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:535 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c432d9513a16923c901975c31610a102)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:614 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 12:12:713 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 12:12:743 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c432d9513a16923c901975c31610a102)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:699 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:626 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (62ed517eb298e2603f602c07beab8683)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:725 INFO  SignInPage :49 - Enter EmailId adfdfgfg
+2021-12-12 12:12:842 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 12:12:859 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (62ed517eb298e2603f602c07beab8683)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:558 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:459 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (fb05dbfd46b681f9d6512318be034f01)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:653 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 12:12:761 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 12:12:783 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (fb05dbfd46b681f9d6512318be034f01)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:62 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:169 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (1fefed92429fec2825ae4f65cc1af6dc)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:367 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 12:12:488 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 12:12:509 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (1fefed92429fec2825ae4f65cc1af6dc)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:895 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:11 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (185167a6e1f074c2be65295df856d0d1)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:623 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-12 12:12:778 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-12 12:12:796 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (185167a6e1f074c2be65295df856d0d1)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:08 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:579 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (45deb9a51531011475122066b4bd94ab)] -> xpath: //a[@title='Women']]
+2021-12-12 12:12:453 INFO  WomenCategoryPage :51 - Verify Women Page : WOMEN
+2021-12-12 12:12:84 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:882 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (1ddf72d00b385b09491d7b577f5988f2)] -> xpath: //a[@title='Women']]
+2021-12-12 12:12:388 INFO  WomenCategoryPage :61 - Select Product : Blouse
+2021-12-12 12:12:620 INFO  WomenCategoryPage :66 - Select Quantity : 2
+2021-12-12 12:12:769 INFO  WomenCategoryPage :71 - Select Size:M
+2021-12-12 12:12:858 INFO  WomenCategoryPage :76 - Select ColorWhite
+2021-12-12 12:12:974 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 12:12:42 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 12:12:139 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 12:12:851 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:601 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (e7e1575cb59152038a4653d2e36c9912)] -> xpath: //a[@title='Women']]
+2021-12-12 12:12:853 INFO  WomenCategoryPage :61 - Select Product : Printed Dress
+2021-12-12 12:12:125 INFO  WomenCategoryPage :66 - Select Quantity : 3
+2021-12-12 12:12:250 INFO  WomenCategoryPage :71 - Select Size:L
+2021-12-12 12:12:329 INFO  WomenCategoryPage :76 - Select ColorOrange
+2021-12-12 12:12:441 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 12:12:514 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 12:12:605 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 12:12:338 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:989 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (98706bb2afc582a6b811728dafc6d36d)] -> xpath: //a[@title='Women']]
+2021-12-12 12:12:987 INFO  WomenCategoryPage :61 - Select Product : Printed Chiffon Dress
+2021-12-12 12:12:183 INFO  WomenCategoryPage :66 - Select Quantity : 4
+2021-12-12 12:12:247 INFO  WomenCategoryPage :71 - Select Size:S
+2021-12-12 12:12:345 INFO  WomenCategoryPage :76 - Select ColorGreen
+2021-12-12 12:12:451 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 12:12:499 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 12:12:595 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 12:12:247 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:802 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (01ffb7a98367f25e798b9d1c418681a9)] -> xpath: //a[@title='Women']]
+2021-12-12 12:12:968 INFO  WomenCategoryPage :61 - Select Product : Printed Summer Dress
+2021-12-12 12:12:187 INFO  WomenCategoryPage :66 - Select Quantity : 2
+2021-12-12 12:12:351 INFO  WomenCategoryPage :71 - Select Size:M
+2021-12-12 12:12:435 INFO  WomenCategoryPage :76 - Select ColorBlue
+2021-12-12 12:12:553 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 12:12:628 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 12:12:736 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 12:12:665 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:821 INFO  HomePage :42 - Clicking on login link : Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Sign in']'
+2021-12-12 12:12:509 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:724 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9a341a467c038244b6241e26048ff72b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:477 INFO  SignInPage :62 - Enter EmailId RobinSun_Dec_12_12_17_13_GMT_2021@gmail.com
+2021-12-12 12:12:574 INFO  SignInPage :66 - Click on Create an Account 
+2021-12-12 12:12:186 INFO  CreateAccountPage :68 - Enter First Name : Robin
+2021-12-12 12:12:289 INFO  CreateAccountPage :73 - Enter Last Name :Singh
+2021-12-12 12:12:404 INFO  CreateAccountPage :78 - Enter Password Robin1234
+2021-12-12 12:12:522 INFO  CreateAccountPage :84 - Enter First Line of Address :1 Nice Building
+2021-12-12 12:12:633 INFO  CreateAccountPage :89 - Enter City : Maryland
+2021-12-12 12:12:805 INFO  CreateAccountPage :94 - Enter State:Ohio
+2021-12-12 12:12:907 INFO  CreateAccountPage :99 - Enter PostCode12345
+2021-12-12 12:12:983 INFO  CreateAccountPage :104 - Enter CountryUnited States
+2021-12-12 12:12:92 INFO  CreateAccountPage :109 - Enter mobile phone01234567893
+2021-12-12 12:12:199 INFO  CreateAccountPage :114 - Enter Address aliasmain home
+2021-12-12 12:12:541 INFO  CreateAccountPage :119 - Click on Register button[[ChromeDriver: chrome on WINDOWS (9a341a467c038244b6241e26048ff72b)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/button[1]/span[1]]
+2021-12-12 12:12:589 INFO  CreateAccountPage :124 - Verify Account Page[[ChromeDriver: chrome on WINDOWS (9a341a467c038244b6241e26048ff72b)] -> xpath: //span[@class='navigation_page']]
+2021-12-12 12:12:345 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:384 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b5ee2d55abe69816a55af8bfe347cf74)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:424 INFO  SignInPage :72 - Verify Authentication Text AUTHENTICATION
+2021-12-12 12:12:94 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:642 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (53ad93c85a287107fa0e23c51d70bd28)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:810 INFO  SignInPage :49 - Enter EmailId 
+2021-12-12 12:12:926 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 12:12:942 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (53ad93c85a287107fa0e23c51d70bd28)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:330 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:902 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8ede4e3a132adee71190bd2a191ee6dd)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:753 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 12:12:863 INFO  SignInPage :53 - Enter Pasword 
+2021-12-12 12:12:878 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8ede4e3a132adee71190bd2a191ee6dd)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:92 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:571 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (834482a8a1c8bdae28197ca198484987)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:177 INFO  SignInPage :49 - Enter EmailId adfdfgfg
+2021-12-12 12:12:304 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 12:12:325 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (834482a8a1c8bdae28197ca198484987)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:167 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:975 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (cb8a6312a369aa3b3683ac71f430287a)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:821 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-12 12:12:925 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-12 12:12:937 INFO  HomePage :42 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (cb8a6312a369aa3b3683ac71f430287a)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-12 12:12:534 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:565 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (8acf3f370b4fb5152deec9cec1823e62)] -> xpath: //a[@title='Women']]
+2021-12-12 12:12:984 INFO  WomenCategoryPage :61 - Select Product : Blouse
+2021-12-12 12:12:204 INFO  WomenCategoryPage :66 - Select Quantity : 2
+2021-12-12 12:12:344 INFO  WomenCategoryPage :71 - Select Size:M
+2021-12-12 12:12:442 INFO  WomenCategoryPage :76 - Select ColorWhite
+2021-12-12 12:12:545 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 12:12:619 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 12:12:726 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 12:12:401 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:467 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (97c4d0107a8c279bdeaccb02145d3588)] -> xpath: //a[@title='Women']]
+2021-12-12 12:12:206 INFO  WomenCategoryPage :61 - Select Product : Printed Dress
+2021-12-12 12:12:437 INFO  WomenCategoryPage :66 - Select Quantity : 3
+2021-12-12 12:12:558 INFO  WomenCategoryPage :71 - Select Size:L
+2021-12-12 12:12:637 INFO  WomenCategoryPage :76 - Select ColorOrange
+2021-12-12 12:12:749 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 12:12:829 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 12:12:944 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 12:12:608 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:719 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (f86b08319dd97c401c9c38111ef50586)] -> xpath: //a[@title='Women']]
+2021-12-12 12:12:601 INFO  WomenCategoryPage :61 - Select Product : Printed Chiffon Dress
+2021-12-12 12:12:784 INFO  WomenCategoryPage :66 - Select Quantity : 4
+2021-12-12 12:12:853 INFO  WomenCategoryPage :71 - Select Size:S
+2021-12-12 12:12:949 INFO  WomenCategoryPage :76 - Select ColorGreen
+2021-12-12 12:12:48 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 12:12:100 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 12:12:202 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-12 12:12:854 INFO  ManageDriver :30 - Launching Chrome Driver
+2021-12-12 12:12:233 INFO  HomePage :38 - Clicking on Women link : [[ChromeDriver: chrome on WINDOWS (cf5f16e8b8e44dfe7ccf960d7eece96c)] -> xpath: //a[@title='Women']]
+2021-12-12 12:12:64 INFO  WomenCategoryPage :61 - Select Product : Printed Summer Dress
+2021-12-12 12:12:241 INFO  WomenCategoryPage :66 - Select Quantity : 2
+2021-12-12 12:12:356 INFO  WomenCategoryPage :71 - Select Size:M
+2021-12-12 12:12:462 INFO  WomenCategoryPage :76 - Select ColorBlue
+2021-12-12 12:12:561 INFO  WomenCategoryPage :80 - Add to cart Add to cart
+2021-12-12 12:12:613 INFO  WomenCategoryPage :84 - Get Confirmation :Product successfully added to your shopping cart
+2021-12-12 12:12:709 INFO  WomenCategoryPage :89 - Closing Window 
+2021-12-13 10:12:883 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-13 10:12:358 INFO  HomePage :42 - Clicking on login link
+2021-12-13 10:12:597 INFO  SignInPage :62 - Enter EmailId RobinMon_Dec_13_10_26_40_GMT_2021@gmail.com
+2021-12-13 10:12:848 INFO  SignInPage :66 - Click on Create an Account 
+2021-12-13 10:12:231 INFO  CreateAccountPage :68 - Enter First Name : Robin
+2021-12-13 10:12:567 INFO  CreateAccountPage :73 - Enter Last Name :Singh
+2021-12-13 10:12:981 INFO  CreateAccountPage :78 - Enter Password Robin1234
+2021-12-13 10:12:270 INFO  CreateAccountPage :84 - Enter First Line of Address :1 Nice Building
+2021-12-13 10:12:588 INFO  CreateAccountPage :89 - Enter City : Maryland
+2021-12-13 10:12:832 INFO  CreateAccountPage :94 - Enter State:Ohio
+2021-12-13 10:12:138 INFO  CreateAccountPage :99 - Enter PostCode12345
+2021-12-13 10:12:337 INFO  CreateAccountPage :104 - Enter CountryUnited States
+2021-12-13 10:12:618 INFO  CreateAccountPage :109 - Enter mobile phone01234567893
+2021-12-13 10:12:914 INFO  CreateAccountPage :114 - Enter Address aliasmain home
+2021-12-13 10:12:94 INFO  CreateAccountPage :119 - Click on Register button[[ChromeDriver: chrome on WINDOWS (8af8bece5a38863f91b348df3c4ee81a)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/button[1]/span[1]]
+2021-12-13 10:12:248 INFO  CreateAccountPage :124 - Verify Account Page[[ChromeDriver: chrome on WINDOWS (8af8bece5a38863f91b348df3c4ee81a)] -> xpath: //span[@class='navigation_page']]
+2021-12-13 10:12:737 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-13 10:12:662 INFO  HomePage :42 - Clicking on login link
+2021-12-13 10:12:950 INFO  SignInPage :72 - Verify Authentication Text AUTHENTICATION
+2021-12-13 10:12:203 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-13 10:12:911 INFO  HomePage :42 - Clicking on login link
+2021-12-13 10:12:650 INFO  SignInPage :49 - Enter EmailId 
+2021-12-13 10:12:112 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-13 10:12:147 INFO  HomePage :42 - Clicking on login link
+2021-12-13 10:12:719 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-13 10:12:66 INFO  HomePage :42 - Clicking on login link
+2021-12-13 10:12:957 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-13 10:12:158 INFO  SignInPage :53 - Enter Pasword 
+2021-12-13 10:12:162 INFO  HomePage :42 - Clicking on login link
+2021-12-13 10:12:552 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-13 10:12:967 INFO  HomePage :42 - Clicking on login link
+2021-12-13 10:12:101 INFO  SignInPage :49 - Enter EmailId adfdfgfg
+2021-12-13 10:12:418 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-13 10:12:431 INFO  HomePage :42 - Clicking on login link
+2021-12-13 10:12:285 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-13 10:12:757 INFO  HomePage :42 - Clicking on login link
+2021-12-13 10:12:460 INFO  SignInPage :49 - Enter EmailId abcd@gmail.com
+2021-12-13 10:12:737 INFO  SignInPage :53 - Enter Pasword 123456
+2021-12-13 10:12:781 INFO  HomePage :42 - Clicking on login link
+2021-12-13 10:12:486 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-13 10:12:747 INFO  HomePage :42 - Clicking on login link
+2021-12-13 10:12:274 INFO  SignInPage :49 - Enter EmailId Georgesmith@gmail.com
+2021-12-13 10:12:939 INFO  SignInPage :53 - Enter Pasword acd1234
+2021-12-13 10:12:943 INFO  HomePage :42 - Clicking on login link
+2021-12-15 18:12:940 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-15 18:12:102 INFO  HomePage :42 - Clicking on login link
+2021-12-15 18:12:261 INFO  SignInPage :62 - Enter EmailId RobinWed_Dec_15_18_05_08_GMT_2021@gmail.com
+2021-12-15 18:12:345 INFO  SignInPage :66 - Click on Create an Account 
+2021-12-15 18:12:58 INFO  CreateAccountPage :68 - Enter First Name : Robin
+2021-12-15 18:12:167 INFO  CreateAccountPage :73 - Enter Last Name :Singh
+2021-12-15 18:12:289 INFO  CreateAccountPage :78 - Enter Password Robin1234
+2021-12-15 18:12:432 INFO  CreateAccountPage :84 - Enter First Line of Address :1 Nice Building
+2021-12-15 18:12:588 INFO  CreateAccountPage :89 - Enter City : Maryland
+2021-12-15 18:12:698 INFO  CreateAccountPage :94 - Enter State:Ohio
+2021-12-15 18:12:803 INFO  CreateAccountPage :99 - Enter PostCode12345
+2021-12-15 18:12:878 INFO  CreateAccountPage :104 - Enter CountryUnited States
+2021-12-15 18:12:980 INFO  CreateAccountPage :109 - Enter mobile phone01234567893
+2021-12-15 18:12:81 INFO  CreateAccountPage :114 - Enter Address aliasmain home
+2021-12-15 18:12:562 INFO  CreateAccountPage :119 - Click on Register button[[ChromeDriver: chrome on WINDOWS (c8c47c7ec5c8c119a12a0ef95f06fcaf)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/button[1]/span[1]]
+2021-12-15 18:12:603 INFO  CreateAccountPage :124 - Verify Account Page[[ChromeDriver: chrome on WINDOWS (c8c47c7ec5c8c119a12a0ef95f06fcaf)] -> xpath: //span[@class='navigation_page']]
+2021-12-15 18:12:277 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-15 18:12:472 INFO  HomePage :42 - Clicking on login link
+2021-12-15 18:12:924 INFO  SignInPage :72 - Verify Authentication Text AUTHENTICATION
+2021-12-15 18:12:621 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-15 18:12:344 INFO  HomePage :42 - Clicking on login link
